@@ -138,36 +138,34 @@ into meaningful intelligence that supports strategic growth and continuous impro
 
 <!-- Top 1% Global Rank badge -->
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Global%20Rank-Top%201%25-5319E7?style=for-the-badge&logo=github&logoColor=white"
-    alt="Global Rank: Top 1% of GitHub Users"
-  />
+  <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/global-rank.svg">
+    <img src="assets/trophies/global-rank.svg" alt="Top Global Rank"/>
+  </a>
+  <br>
 </p>
 
 
 
 <!-- Most Used Languages (TOP) -->
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+  <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/most-used-language.svg">
+    <img src="assets/trophies/most-used-language.svg" alt="Top Languages"/>
+  </a>
+  <br><br>
 
 <!-- GitHub Stats (BOTTOM) -->
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/github-state.svg">
+    <img src="assets/trophies/github-state.svg" alt="Github States"/>
+  </a>
+  <br><br>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara&theme=onedark&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"
-    alt="GitHub Profile Trophies"
-  />
+  <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/trophy.svg">
+    <img src="assets/trophies/trophy.svg" alt="Github Trophies"/>
+  </a>
 </p>
 
 
