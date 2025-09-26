@@ -139,30 +139,19 @@ into meaningful intelligence that supports strategic growth and continuous impro
 <!-- Top 1% Global Rank badge -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/global-rank.svg">
-    <img src="assets/trophies/global-rank.svg" alt="Top Global Rank"/>
+    <img src="assets/trophies/global-rank.svg" width="35%px" alt="Top Global Rank"/>
   </a>
-  <br>
-</p>
-
-<!-- Most Used Languages (TOP) -->
-<p align="center">
+  <!-- Most Used Languages (TOP) -->
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/most-used-language.svg">
     <img src="assets/trophies/most-used-language.svg" width="85%px" alt="Top Languages"/>
   </a>
-  <br><br>
-
-<!-- GitHub Stats (BOTTOM) -->
-<p align="center">
+  <!-- GitHub Stats (BOTTOM) -->
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/github-state.svg">
     <img src="assets/trophies/github-state.svg" width="85%px" alt="Github States"/>
   </a>
-  <br><br>
-</p>
-
-<!-- Trophies -->
-<p align="center">
+  <!-- Trophies -->
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/trophy.svg">
-    <img src="assets/trophies/trophy.svg" alt="Github Trophies"/>
+    <img src="assets/trophies/trophy.svg" width="85%px" alt="Github Trophies"/>
   </a>
 </p>
 
