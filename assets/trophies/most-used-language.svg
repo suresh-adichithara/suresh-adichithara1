@@ -8,12 +8,12 @@
       >
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #e4bf7a;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #df6d74 }
+    .lang-name { font: 600 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: #df6d74 }
   
 
           
