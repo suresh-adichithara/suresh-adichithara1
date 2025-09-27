@@ -144,8 +144,6 @@ into meaningful intelligence that supports strategic growth and continuous impro
   <br>
 </p>
 
-
-
 <!-- Most Used Languages (TOP) -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/most-used-language.svg">
