@@ -149,14 +149,14 @@ into meaningful intelligence that supports strategic growth and continuous impro
 <!-- Most Used Languages (TOP) -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/most-used-language.svg">
-    <img src="assets/trophies/most-used-language.svg" alt="Top Languages"/>
+    <img src="assets/trophies/most-used-language.svg" width="85%px" alt="Top Languages"/>
   </a>
   <br><br>
 
 <!-- GitHub Stats (BOTTOM) -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/suresh-adichithara/suresh-adichithara/main/assets/trophies/github-state.svg">
-    <img src="assets/trophies/github-state.svg" alt="Github States"/>
+    <img src="assets/trophies/github-state.svg" width="85%px" alt="Github States"/>
   </a>
   <br><br>
 </p>
