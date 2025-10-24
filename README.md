@@ -9,11 +9,10 @@
 
 ### 💻 Welcome
 **Note:** This GitHub highlights past **technical projects**, **coding work,** and **experimentation** in
-**data analytics**, **automation,** and **system development**. It serves as an archive of 
-hands-on technical exploration that shaped my approach to building efficient, data-driven solutions and
-creating practical innovation through code.
+**data analytics**, **automation,** and **system development**. It serves as an archive of building efficient,
+data-driven solutions and creating practical innovation through code.
 
-Originally created years ago, this page represents a **strong technical foundation**, though some repositories
+Originally created years ago, this page represents a **technical foundation**, though some repositories
 and functions may reflect earlier versions of code that are no longer active or maintained. Its purpose is
 to preserve the **evolution of ideas** and **experimentation** as part of an ongoing pursuit of **learning and
 problem solving**.
@@ -23,9 +22,9 @@ problem solving**.
 development projects**, documenting the **practical application of coding**, **design**, and **data architecture
 principles** used to build systems that enhance **performance**, **scalability**, and **business intelligence**.
 
-While not all repositories remain functional or up to date, they collectively reflect a period of **deep technical
-growth** capturing the process of **learning through experimentation**, **refining problem solving methods**, and
-**advancing technical capability** that continues to influence my work today.
+While not all repositories remain functional or up to date, they collectively reflect a period of **growth** capturing
+the process of **learning through experimentation**, **refining problem solving methods**, and
+**advancing technical capability** that continues today.
 
 
 ### 💼 About Me
@@ -45,11 +44,10 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 ---
 
 ### 🧠 Core Skills
-- **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), MicroStrategy (SQL-based modeling)  
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL, T-SQL), Automation scripting  
-- **Data Engineering:** Databricks, Microsoft Azure, ETL pipelines, API integration, and data transformation  
+- **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL-based modeling) 
 - **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
-- **Cloud Infrastructure:** Microsoft Azure (Data Factory, Synapse, Data Lake), Databricks, and AWS S3  
+- **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration
+- **Cloud Infrastructure:** Microsoft Azure (Data Factory, Synapse, Data Lake), Databricks, and Google BigQuery  
 
 ---
 
