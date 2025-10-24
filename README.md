@@ -52,7 +52,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 🧰 *Tools & Technologies*
 
-#### 📈 *Data & Intelligence*
+#### 📈 Data & Intelligence
 <p align="center">
 
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />  
@@ -74,7 +74,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 </p>
 
 
-#### 🎨 *Engineering & Automation*
+#### 🎨 Engineering & Automation
 <p align="center">
 
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />  
@@ -91,7 +91,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 </p>
 
 
-#### ☁️ *Cloud & Infrastructure*
+#### ☁️ Cloud & Infrastructure
 <p align="center">
 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />  
@@ -105,7 +105,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />  
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
 
-#### 💾 *Languages & Development*
+#### 💾 Languages & Development
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
