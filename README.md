@@ -53,27 +53,26 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 🧰 Tools & Technologies
 
-#### 💻 Data & Intelligence  
+#### 💻 Data & Intelligence
 <p align="center">
 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=white" /></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-  <a href="https://www.microstrategy.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://plotly.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://keras.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />  
+  <img src="https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />  
 
 </p>
-
 
 
 #### 🎨 Engineering & Automation
