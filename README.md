@@ -39,7 +39,6 @@ into meaningful intelligence** that supports strategic growth and continuous imp
  🔭 Focus: Data automation, process optimization, and reporting initiatives  
  🌱 Exploration: Cloud based data solutions and advanced analytics for business performance  
  💡 Curiosity: Uncovering meaningful insights and simplifying complex data systems
- 
  🎯 Goal: Building scalable solutions that turn data into actionable intelligence  
 
 ---
