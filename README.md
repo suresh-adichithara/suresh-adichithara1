@@ -53,8 +53,11 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 🧰 Tools & Technologies
 
-#### 💻 Languages & Syntax
+#### 💻 Data & Intelligence
 <p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=white" />
+
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -66,7 +69,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-#### 🎨 Frontend Development
+#### 🎨 Engineering & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -74,7 +77,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### ⚙️ Cloud & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
@@ -85,7 +88,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-#### 🗄️ Database & Data Engineering
+#### 🗄️ Languages & Development
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
