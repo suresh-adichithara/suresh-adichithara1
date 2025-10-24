@@ -16,7 +16,7 @@ This page represents a **technical foundation**, though some repositories and fu
 versions of code that are no longer active or maintained. Its purpose is to preserve the **evolution of ideas**
 and **experimentation** as part of an ongoing pursuit of **learning and problem solving**.
 
-### ⚡*Technical Foundations*
+### ⚡ *Technical Foundations*
 **This repository collection** represents a diverse portfolio of **data analytics**, **automation**, and **system
 development projects**, documenting the **practical application of coding**, **design**, and **data architecture
 principles** used to build systems that enhance **performance**, **scalability**, and **business intelligence**.
@@ -42,7 +42,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 🪄*Core Skills*
+### 🪄 *Core Skills*
  - **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL based modeling)  
  - **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
  - **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration  
