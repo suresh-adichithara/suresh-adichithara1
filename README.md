@@ -161,7 +161,7 @@ and promoting a culture of evidence-based thinking that drives long-term busines
 
 ---
 
-<p align="center">✨ *“Building the systems that automate the world ahead.”* ✨</p>
+<p align="center">✨ *“Building data systems that automate the world ahead.”* ✨</p>
 
 ---
 
