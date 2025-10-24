@@ -37,10 +37,10 @@ Experienced in **data automation**, **reporting**, and **integration**, building
 ensure accuracy, consistency, and accessibility. Passionate about **problem solving**, **process optimization**, and **turning data
 into meaningful intelligence** that supports strategic growth and continuous improvement.
 
-- 🔭 Currently working on: Data automation, process optimization, and reporting initiatives  
-- 🌱 Developing expertise in: Cloud-based data solutions and advanced analytics for business performance  
-- 💡 Driven by: Curiosity to uncover meaningful insights and simplify complex data systems  
-- 🎯 Focused on: Building scalable solutions that turn data into actionable intelligence  
+- 🔭 Focus: Data automation, process optimization, and reporting initiatives  
+- 🌱 Exploration: Cloud-based data solutions and advanced analytics for business performance  
+- 💡 Curiosity: Uncovering meaningful insights and simplifying complex data systems
+- 🎯 Goal: Building scalable solutions that turn data into actionable intelligence  
 
 ---
 
