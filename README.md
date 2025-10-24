@@ -1,4 +1,4 @@
-<!-- Profile Banner -->
+ <!-- Profile Banner -->
 <p align="center">
   <img src="./assets/intro-banner.gif" alt="Suresh Adichithara - Data Analytics & Engineering" width="100%" />
 </p>
@@ -36,18 +36,18 @@ Experienced in **data automation**, **reporting**, and **integration**, building
 ensure accuracy, consistency, and accessibility. Passionate about **problem solving**, **process optimization**, and **turning data
 into meaningful intelligence** that supports strategic growth and continuous improvement.
 
-- 🔭 Focus: Data automation, process optimization, and reporting initiatives  
-- 🌱 Exploration: Cloud based data solutions and advanced analytics for business performance  
-- 💡 Curiosity: Uncovering meaningful insights and simplifying complex data systems
-- 🎯 Goal: Building scalable solutions that turn data into actionable intelligence  
+ 🔭 Focus: Data automation, process optimization, and reporting initiatives  
+ 🌱 Exploration: Cloud based data solutions and advanced analytics for business performance  
+ 💡 Curiosity: Uncovering meaningful insights and simplifying complex data systems
+ 🎯 Goal: Building scalable solutions that turn data into actionable intelligence  
 
 ---
 
 ### 🪄 Core Skills
-- **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL based modeling) 
-- **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
-- **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration
-- **Cloud Infrastructure:** Microsoft Azure (Data Factory, Synapse, Data Lake), Databricks, and Google BigQuery  
+ **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL based modeling) 
+ **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
+ **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration
+ **Cloud Infrastructure:** Microsoft Azure (Data Factory, Synapse, Data Lake), Databricks, and Google BigQuery  
 
 ---
 
