@@ -17,7 +17,7 @@ and functions may reflect earlier versions of code that are no longer active or 
 to preserve the **evolution of ideas** and **experimentation** as part of an ongoing pursuit of **learning and
 problem solving**.
 
-### 💾 Technical Foundations
+### ⚡ Technical Foundations
 **This repository collection** represents a diverse portfolio of **data analytics**, **automation**, and **system
 development projects**, documenting the **practical application of coding**, **design**, and **data architecture
 principles** used to build systems that enhance **performance**, **scalability**, and **business intelligence**.
@@ -106,7 +106,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />  
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
 
-#### ⚡ Languages & Development
+#### 💾 Languages & Development
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
