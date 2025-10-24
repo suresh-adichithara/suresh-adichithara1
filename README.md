@@ -43,7 +43,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 🧠 Core Skills
+### 🪄 Core Skills
 - **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL-based modeling) 
 - **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
 - **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration
@@ -53,7 +53,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 🧰 Tools & Technologies
 
-#### 💻 Data & Intelligence
+#### 📈 Data & Intelligence
 <p align="center">
 
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />  
@@ -106,7 +106,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />  
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
 
-#### 🗄️ Languages & Development
+#### ⚡ Languages & Development
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
