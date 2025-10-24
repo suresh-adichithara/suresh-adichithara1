@@ -42,7 +42,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 🪄*Core Skills*
+### 🪄 *Core Skills*
  - **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL based modeling)  
  - **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
  - **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration  
