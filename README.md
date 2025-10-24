@@ -73,7 +73,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-#### 💾 Languages & Development
+#### 💾 Code & Development
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
