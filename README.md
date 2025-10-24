@@ -73,38 +73,6 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-
-#### 🎨 Engineering & Automation
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />  
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-4B0082?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Workflow%20Orchestration-6A1B9A?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Automation-00ACC1?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Process%20Optimization-1565C0?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />  
-
-</p>
-
-
-#### ☁️ Cloud & Infrastructure
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
-
 #### 💾 Languages & Development
 <p align="center">
 
@@ -128,6 +96,38 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />  
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />  
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />  
+
+</p>
+
+#### 🎨 Engineering & Automation
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />  
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-4B0082?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Workflow%20Orchestration-6A1B9A?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Automation-00ACC1?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Process%20Optimization-1565C0?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />  
+
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  
 
 </p>
 
