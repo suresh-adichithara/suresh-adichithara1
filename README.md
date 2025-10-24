@@ -26,7 +26,7 @@ the process of **learning through experimentation**, **refining problem solving 
 **advancing technical capability** that continues today.
 
 
-### 💼 *About Me*
+### 💼*About Me*
 **Data driven professional** with a strong foundation in **analytics**, **automation**, and **scalable system design**.
 Focused on transforming complex data into clear, actionable insights that improve decision making, optimize performance, 
 and drive innovation across teams and organizations.
