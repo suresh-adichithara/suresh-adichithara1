@@ -8,14 +8,13 @@
 ---
 
 ### 💻 Welcome
-**Note:** This GitHub highlights past **technical projects**, **coding work,** and **experimentation** in
-**data analytics**, **automation,** and **system development**. It serves as an archive of building efficient,
-data driven solutions and creating practical innovation through code.
+**Note:** Established in 2011, this GitHub profile highlights past **technical projects**, **coding work,** and 
+**experimentation** in **data analytics**, **automation,** and **system development**. It serves as an archive
+of building efficient, data driven solutions and creating practical innovation through code.
 
-Originally created years ago, this page represents a **technical foundation**, though some repositories
-and functions may reflect earlier versions of code that are no longer active or maintained. Its purpose is
-to preserve the **evolution of ideas** and **experimentation** as part of an ongoing pursuit of **learning and
-problem solving**.
+This page represents a **technical foundation**, though some repositories and functions may reflect earlier
+versions of code that are no longer active or maintained. Its purpose is to preserve the **evolution of ideas**
+and **experimentation** as part of an ongoing pursuit of **learning and problem solving**.
 
 ### ⚡ Technical Foundations
 **This repository collection** represents a diverse portfolio of **data analytics**, **automation**, and **system
