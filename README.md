@@ -78,7 +78,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-### 💾 Code & Development 💾
+### 💾 Code & Development
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
@@ -104,7 +104,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-#### 🎨 Engineering & Automation
+### 🎨 Engineering & Automation
 <p align="center">
 
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />  
@@ -120,7 +120,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-#### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 <p align="center">
 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />  
