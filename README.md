@@ -44,7 +44,8 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 🪄*Core Skills*
+# 🪄
+### *Core Skills*
  - **Data Analytics:** Power BI (DAX, Power Query M), Tableau (LOD Expressions), and MicroStrategy (SQL based modeling)  
  - **Business Intelligence:** KPI frameworks, data modeling, semantic layers, and reporting architecture  
  - **Data Operations:** ETL pipeline development, process automation, and workflow orchestration and integration  
@@ -52,7 +53,8 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 🧰 *Tools & Technologies*
+# 🧰 
+### *Tools & Technologies*
 
 #### 📈 Data & Intelligence
 <p align="center">
@@ -163,7 +165,8 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 🌐 *Connect With Me*
+# 🌐 
+### *Connect With Me*
 <p align="center">
    <a href="https://www.linkedin.com/in/suresh-adichithara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -184,7 +187,8 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-### 👀 *Profile Views*
+# 👀 
+### *Profile Views*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suresh-adichithara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views counter" />
 </p>
