@@ -170,16 +170,23 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 # 🌐 
 ### *Connect With Me*
 <p align="center">
-  <a href="https://www.linkedin.com/in/suresh-adichithara/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sureshadichithara" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:suresh.adichithara1980@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <kbd>
+    <a href="https://www.linkedin.com/in/suresh-adichithara/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </kbd>
+  <kbd>
+    <a href="https://github.com/sureshadichithara" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </kbd>
+  <kbd>
+    <a href="mailto:suresh.adichithara1980@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </kbd>
 </p>
+
 
 ---
 
