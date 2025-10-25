@@ -150,7 +150,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sureshadichithara&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sureshadichithara&theme=onedark)](https://github.com/sureshadichithara/github-profile-trophy)
 </p>
 
 
@@ -183,7 +183,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 👀 *Profile Views*
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sureshadichithara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=suresh-adichithara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views counter" />
 </p>
 
 ---
