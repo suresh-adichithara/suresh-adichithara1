@@ -138,19 +138,19 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 ### 🏆 *Stats & Achievements*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-adichithara1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshadichithara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suresh-adichithara1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshadichithara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh-adichithara1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshadichithara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara1&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sureshadichithara&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 
@@ -162,7 +162,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 🌐 *Connect With Me*
 <p align="center">
-  <a href="https://github.com/suresh-adichithara1" target="_blank">
+  <a href="https://github.com/sureshadichithara" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/suresh-adichithara/" target="_blank">
@@ -183,7 +183,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ### 👀 *Profile Views*
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suresh-adichithara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=sureshadichithara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views counter" />
 </p>
 
 ---
