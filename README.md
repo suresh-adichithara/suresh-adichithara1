@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 
+# 💻 
 ### *Welcome*
 **Note: Established in 2011**, this GitHub profile highlights past **technical projects**, **coding work,** and 
 **experimentation** in **data analytics**, **automation,** and **system development**. It serves as an archive
