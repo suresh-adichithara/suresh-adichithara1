@@ -8,7 +8,7 @@
 ---
 
 # 💻 
-<p align="left" style="font-size:22px; font-weight:bold; color:#003366;">💻 Welcome</p>
+<p align="left" style="font-size:22px; font-weight:bold; color:#003366;"><b>Welcome<b></p>
 **Note: Established in 2011**, this GitHub profile highlights past **technical projects**, **coding work,** and 
 **experimentation** in **data analytics**, **automation,** and **system development**. It serves as an archive
 of building efficient, data driven solutions and creating practical innovation through code.
