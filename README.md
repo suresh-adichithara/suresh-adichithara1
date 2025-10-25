@@ -17,7 +17,7 @@ This page represents a **technical foundation**, though some repositories and fu
 versions of code that are no longer active or maintained. Its purpose is to preserve the **evolution of ideas**
 and **experimentation** as part of an ongoing pursuit of **learning and problem solving**.
 
-#⚡
+# ⚡
 ### *Technical Foundations*
 **This repository collection** represents a diverse portfolio of **data analytics**, **automation**, and **system
 development projects**, documenting the **practical application of coding**, **design**, and **data architecture
