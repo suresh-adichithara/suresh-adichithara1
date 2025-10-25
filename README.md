@@ -144,7 +144,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 ### *Stats & Achievements*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshadichithara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshadichithara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
