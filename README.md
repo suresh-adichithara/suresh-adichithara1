@@ -57,7 +57,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 # 🧰 
 ### *Tools & Technologies*
 
-#### 📈 Data & Intelligence
+### 📈 Data & Intelligence
 <p align="center">
 
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />  
@@ -78,7 +78,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-#### 💾 Code & Development
+### 💾 Code & Development 💾
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
