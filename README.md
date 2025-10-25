@@ -149,9 +149,8 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshadichithara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sureshadichithara&theme=onedark)](https://github.com/sureshadichithara/github-profile-trophy)
-</p>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sureshadichithara&theme=onedark)](https://github.com/sureshadichithara/github-profile-trophy)
 
 
 ---
