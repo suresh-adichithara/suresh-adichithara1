@@ -104,7 +104,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 </p>
 
-### 🛠️ Engineering & Automation
+### 🔁 Engineering & Automation
 <p align="center">
 
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />  
