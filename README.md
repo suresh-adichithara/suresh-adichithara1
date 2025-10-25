@@ -157,7 +157,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 ---
 
-<p align="center">✨ *“Building data systems that automate the world ahead.”* ✨</p>
+<p align="center">####✨✨ Building data systems that automate the world ahead. ✨✨</p>
 
 ---
 
