@@ -172,10 +172,10 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 <p align="center">
    <a href="https://www.linkedin.com/in/suresh-adichithara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> </p>
+  </a>
   <a href="https://github.com/sureshadichithara" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> </p>
+  </a>
   <a href="mailto:suresh.adichithara1980@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
