@@ -156,7 +156,9 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suresh-adichithara)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=suresh-adichithara&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
 
 
 ---
