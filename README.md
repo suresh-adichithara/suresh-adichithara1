@@ -136,8 +136,12 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
+<!-- Top 1% Global Rank badge -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/suresh-adichithara?template=classic&base.indepth=true&base.hireable=false&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&config.timezone=America%2FChicago" />
+  <img
+    src="https://img.shields.io/badge/Global%20Rank-Top%201%25-5319E7?style=for-the-badge&logo=github&logoColor=white"
+    alt="Global Rank: Top 1% of GitHub Users"
+  />
 </p>
 
 
