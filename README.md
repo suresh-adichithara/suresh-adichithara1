@@ -136,29 +136,21 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
-  <!-- Overall GitHub Stats (dark, all commits) -->
-  <p align="center">
+<!-- Overall GitHub Stats (dark, all commits) -->
+<p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true"
     alt="GitHub Stats"
   />
+</p>
 
-<!-- Languages + Overall GitHub Stats (both dark, matching) -->
-
-  <!-- Top Languages (dark bar chart, no black donut) -->
+<!-- Top Languages (dark bar chart, no black donut) -->
+<p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
     alt="Top Languages"
   />
-
 </p>
-<!-- Lifetime contributions line (fixed, timeless wording) -->
-<p align="center">
-
-</p>
-
-
-
 <!-- Trophies (dark) -->
 <p align="center">
   <img
