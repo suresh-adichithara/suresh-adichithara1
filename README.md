@@ -136,6 +136,12 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/suresh-adichithara?template=classic&base.indepth=true&base.hireable=false&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&config.timezone=America%2FChicago" />
+</p>
+
+
+
 <!-- Most Used Languages (TOP) -->
 <p align="center">
   <img
