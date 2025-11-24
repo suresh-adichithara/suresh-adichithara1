@@ -150,7 +150,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 </p>
 <!-- Lifetime contributions line (fixed, timeless wording) -->
 <p align="center">
-  <b>~86k contributions across 2010–2025 · Profile archived after 2025</b>
+
 </p>
 
 
