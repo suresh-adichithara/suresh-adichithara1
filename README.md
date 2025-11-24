@@ -9,9 +9,10 @@
 
 # 💻 
 ### *Welcome*
-**Note: Established between 2010 and 2025, spanning 15 years of work**, this GitHub profile highlights past **technical projects**, **coding work,** and 
-**experimentation** in **data analytics**, **automation,** and **system development**. It serves as an archive
-of building efficient, data driven solutions and creating practical innovation through code.
+**Note: Established between 2010 to 2025, spanning 15 years of work**, this GitHub profile highlights past 
+**technical projects**, **coding work,** and **experimentation** in **data analytics**, **automation,** 
+and **system development**. It serves as an archive of building efficient, data driven solutions and 
+creating practical innovation through code.
 
 This page represents a **technical foundation**, though some repositories and functions may reflect earlier
 versions of code that are no longer active or maintained. Its purpose is to preserve the **evolution of ideas**
