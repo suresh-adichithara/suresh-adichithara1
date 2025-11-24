@@ -136,24 +136,23 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
-<!-- GitHub Stats + Top Languages on the same line -->
+<!-- 1) Most Used Languages (TOP, centered) -->
 <p align="center">
-  <!-- GitHub Stats (left) -->
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true"
-    alt="GitHub Stats"
-    height="180px"
-  />
-
-  <!-- Top Languages (right) -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
-    alt="Top Languages"
-    height="180px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh-adichithara&theme=github_dark"
+    alt="Most Used Languages"
   />
 </p>
 
-<!-- Trophies CENTERED under both -->
+<!-- 2) GitHub Stats (CENTER, below languages) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suresh-adichithara&theme=github_dark"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- 3) Trophies (BOTTOM, centered) -->
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara&theme=onedark&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"
