@@ -136,35 +136,22 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
-<!-- Profile Summary (dark) -->
+<!-- Lifetime contributions line (2010–2025) -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh-adichithara&theme=github_dark"
-    alt="GitHub Profile Summary"
-  />
+  <b>~86k+ contributions across 2010–2025 · Profile retired after 2025</b>
 </p>
 
-<!-- Top Languages & Core Stats (dark, side by side) -->
+<!-- Languages + Overall GitHub Stats -->
 <p align="center">
+  <!-- Most Used Languages (dark) -->
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh-adichithara&theme=github_dark"
+    alt="Most Used Languages"
   />
+  <!-- Overall GitHub Stats (dark, all commits) -->
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&theme=onedark&hide_border=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true"
     alt="GitHub Stats"
-  />
-</p>
-
-<!-- Extra Stats Row (optional – delete this block if you want it simpler) -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suresh-adichithara&theme=github_dark"
-    alt="Productive Time"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh-adichithara&theme=github_dark"
-    alt="Most Commit Language"
   />
 </p>
 
@@ -175,8 +162,6 @@ into meaningful intelligence** that supports strategic growth and continuous imp
     alt="GitHub Profile Trophies"
   />
 </p>
-
-
 
 ---
 
