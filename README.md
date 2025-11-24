@@ -136,38 +136,45 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
-<!-- Top Languages -->
+<!-- Profile Summary (dark) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh-adichithara&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<!-- Top Languages & Core Stats (dark, side by side) -->
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
     alt="Top Languages"
   />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&theme=onedark&hide_border=true&count_private=true"
     alt="GitHub Stats"
   />
 </p>
 
-<!-- Activity Graph (dark theme, replaces streak) -->
+<!-- Extra Stats Row (optional – delete this block if you want it simpler) -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=suresh-adichithara&theme=github-dark&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suresh-adichithara&theme=github_dark"
+    alt="Productive Time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh-adichithara&theme=github_dark"
+    alt="Most Commit Language"
   />
 </p>
 
-<!-- Trophy -->
-<div align="center">
+<!-- Trophies (dark) -->
+<p align="center">
   <img
-    loading="lazy"
-    src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"
-    alt="GitHub Profile Trophy"
+    src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara&theme=onedark&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"
+    alt="GitHub Profile Trophies"
   />
-</div>
+</p>
 
 
 
