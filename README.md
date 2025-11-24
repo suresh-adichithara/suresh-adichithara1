@@ -144,9 +144,14 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+
+
+
+
+
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suresh-adichithara&theme=onedark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh-adichithara&theme=onedark&hide_border=true" />
 </p>
 
 <!-- Trophy (fixed / stable endpoint) -->
