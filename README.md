@@ -136,28 +136,29 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
-  <!-- Overall GitHub Stats (dark, all commits) -->
+<!-- GitHub Stats + Top Languages next to each other -->
+<p align="center">
+  <!-- Overall GitHub Stats (left) -->
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true"
     alt="GitHub Stats"
   />
-</p>
-
-<!-- Languages + Overall GitHub Stats (both dark, matching) -->
-<p align="center">
-  <!-- Top Languages (dark bar chart, no black donut) -->
+  
+  <!-- Top Languages (right) -->
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
     alt="Top Languages"
   />
+</p>
 
-<!-- Trophies (dark) -->
+<!-- Trophies (dark, centered) -->
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara&theme=onedark&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"
     alt="GitHub Profile Trophies"
   />
 </p>
+
 
 ---
 
