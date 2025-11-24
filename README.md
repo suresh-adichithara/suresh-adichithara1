@@ -135,12 +135,6 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 ### *Stats & Achievements*
 
 <h2 align="center">📊 Stats & Achievements</h2>
-
-<!-- Lifetime contributions line (fixed, timeless wording) -->
-<p align="center">
-  <b>~86k contributions across 2010–2025 · Profile archived after 2025</b>
-</p>
-
 <!-- Languages + Overall GitHub Stats (both dark, matching) -->
 <p align="center">
   <!-- Top Languages (dark bar chart, no black donut) -->
@@ -154,6 +148,12 @@ into meaningful intelligence** that supports strategic growth and continuous imp
     alt="GitHub Stats"
   />
 </p>
+<!-- Lifetime contributions line (fixed, timeless wording) -->
+<p align="center">
+  <b>~86k contributions across 2010–2025 · Profile archived after 2025</b>
+</p>
+
+
 
 <!-- Trophies (dark) -->
 <p align="center">
