@@ -136,17 +136,17 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 
 <h2 align="center">📊 Stats & Achievements</h2>
 
-<!-- Lifetime contributions line (2010–2025) -->
+<!-- Lifetime contributions line (fixed, timeless wording) -->
 <p align="center">
-  <b>~86k+ contributions across 2010–2025 · Profile retired after 2025</b>
+  <b>~86k contributions across 2010–2025 · Profile archived after 2025</b>
 </p>
 
-<!-- Languages + Overall GitHub Stats -->
+<!-- Languages + Overall GitHub Stats (both dark, matching) -->
 <p align="center">
-  <!-- Most Used Languages (dark) -->
+  <!-- Top Languages (dark bar chart, no black donut) -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh-adichithara&theme=github_dark"
-    alt="Most Used Languages"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
+    alt="Top Languages"
   />
   <!-- Overall GitHub Stats (dark, all commits) -->
   <img
