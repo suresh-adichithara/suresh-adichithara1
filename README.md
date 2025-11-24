@@ -134,6 +134,55 @@ into meaningful intelligence** that supports strategic growth and continuous imp
 # 🏆 
 ### *Stats & Achievements*
 
+
+<h2 align="center">📊 Stats & Achievements</h2>
+
+<!-- Profile Summary (dark) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh-adichithara&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<!-- Top Languages & Core Stats (dark, side by side) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&theme=onedark&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- Extra Stats Row (optional – delete this block if you want it simpler) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suresh-adichithara&theme=github_dark"
+    alt="Productive Time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh-adichithara&theme=github_dark"
+    alt="Most Commit Language"
+  />
+</p>
+
+<!-- Trophies (dark) -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=suresh-adichithara&theme=onedark&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"
+    alt="GitHub Profile Trophies"
+  />
+</p>
+
+
+
+
+
+
+
 <h2 align="center">📊 Stats & Achievements</h2>
 
 <!-- Lifetime contributions line (2010–2025) -->
