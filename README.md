@@ -141,18 +141,21 @@ into meaningful intelligence** that supports strategic growth and continuous imp
   <b>~86k contributions across 2010–2025 · Profile archived after 2025</b>
 </p>
 
-<!-- Languages + Overall GitHub Stats (both dark, matching) -->
+<!-- GitHub Stats (FIRST) + Top Languages (SECOND) -->
 <p align="center">
-  <!-- Top Languages (dark bar chart, no black donut) -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
-    alt="Top Languages"
-  />
+
   <!-- Overall GitHub Stats (dark, all commits) -->
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=suresh-adichithara&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true"
     alt="GitHub Stats"
   />
+
+  <!-- Top Languages (dark bar chart, no black donut) -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suresh-adichithara&layout=compact&theme=onedark&hide_border=true"
+    alt="Top Languages"
+  />
+
 </p>
 
 <!-- Trophies (dark) -->
@@ -162,6 +165,7 @@ into meaningful intelligence** that supports strategic growth and continuous imp
     alt="GitHub Profile Trophies"
   />
 </p>
+
 
 ---
 
