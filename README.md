@@ -22,7 +22,7 @@ and experimentation as part of an ongoing pursuit of learning and problem solvin
 ### *Technical Foundations*
 This repository collection represents a diverse portfolio of data analytics, automation, and system
 development projects, documenting the practical application of coding, design, and data architecture
-principles** used to build systems that enhance performance, scalability, and business intelligence.
+principles used to build systems that enhance performance, scalability, and business intelligence.
 
 While not all repositories remain functional or up to date, they collectively reflect a period of growth capturing
 the process of learning through experimentation, refining problem solving methods, and
