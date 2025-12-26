@@ -24,9 +24,9 @@ This repository collection represents a diverse portfolio of data analytics, aut
 development projects, documenting the practical application of coding, design, and data architecture
 principles used to build systems that enhance performance, scalability, and business intelligence.
 
-While not all repositories remain functional or up to date, they collectively reflect a period of growth capturing
-the process of learning through experimentation, refining problem solving methods, and
-advancing technical capability that continues today.
+While not all repositories remain functional or up to date, many having been intentionally removed or reorganized, 
+they collectively reflect a period of growth capturing the process of learning through experimentation, refining 
+problem solving methods, and advancing technical capability that continues today.
 
 
 # 💼 
