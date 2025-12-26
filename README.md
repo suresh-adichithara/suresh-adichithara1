@@ -205,9 +205,11 @@ into meaningful intelligence that supports strategic growth and continuous impro
   <img src="./assets/outro.gif" alt="Data Analytics Animation" width="100%" />
 </p>
 
+<br />
+
 <p align="right">
-  <small>2 Timothy 4:7</small>
-</p>
+  <small><em>2 Timothy 4:7</em></small>
+</p
 
 
 ---
