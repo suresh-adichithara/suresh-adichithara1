@@ -208,7 +208,6 @@ into meaningful intelligence that supports strategic growth and continuous impro
 <p align="right">
   <small>2 Timothy 4:7</small>
 </p>
----
 
 # 👀 
 ### *Profile Views*
